@@ -1,6 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt 
-import os #import thư viện để click được vào clip
+import os 
 import numpy as np
 import pandas as pd
 
